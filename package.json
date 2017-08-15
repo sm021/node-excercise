@@ -1,0 +1,22 @@
+{
+  "name": "node-exercise-demo",
+  "version": "1.0.0",
+  "description": "Node exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sm021/node-excercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sm021/node-excercise/issues"
+  },
+  "homepage": "https://github.com/sm021/node-excercise#readme",
+  "dependencies": {
+    "node-emoji": "^1.8.1"
+  }
+}
